@@ -7,7 +7,7 @@
 
 **Tokenetics** is an enterprise-grade cryptocurrency analytics platform powered by advanced machine learning that delivers real-time market insights with unparalleled accuracy. By leveraging sophisticated volume analysis, smart money detection, and token correlation mechanisms, we're democratizing institutional-level crypto intelligence for traders, funds, and retail investors alike.
 
-![CryptoSentinel Dashboard](https://via.placeholder.com/800x400?text=CryptoSentinel+Dashboard+Visualization)
+![Tokenetics Dashboard](https://via.placeholder.com/800x400?text=Tokenetics+Dashboard+Visualization)
 
 ## ✨ Key Features
 
